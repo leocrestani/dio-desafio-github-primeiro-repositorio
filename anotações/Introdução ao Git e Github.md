@@ -16,7 +16,7 @@ cls - limpar a tela
 
 mkdir - cria uma pasta
 
-> - redirecionador de fluxo
+\> - redirecionador de fluxo
 
 del - deleta arquivos de uma pasta
 
@@ -40,7 +40,7 @@ mkdir - cria uma pasta
 
 sudo su - permissão
 
-> - redirecionador de fluxo
+\> - redirecionador de fluxo
 
 rm -rf -deleta tudo dentro da pasta
 
